@@ -7,6 +7,6 @@ hello git
 hello git
 hello git
 hello git
-hello git  hot-fix merge test
+hello git  hot-fix merge te
 hello git
 hello git

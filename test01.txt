@@ -12,3 +12,4 @@ hello git  hot-fix merge te
 hello git
 hello git
 zzzzzzzzzzzzzzzzz
+yyyyyyyyyyyyyyyyy  by testClone

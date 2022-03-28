@@ -8,5 +8,6 @@ hello git  master merge test
 hello git
 hello git
 hello git
+hello git  hot-fix merge te
 hello git
 hello git
